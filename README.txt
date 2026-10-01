@@ -1,19 +1,15 @@
-SHANAWAR ABBAS — PROFESSOR OUTREACH PORTFOLIO
+SHANAWAR ABBAS — RESEARCH PORTFOLIO
+
+Main research:
+Digital Finance and SME Credit Access: Examining Whether Digital Transaction Records Can Reduce Financing Constraints for Small Businesses in Sindh, Pakistan.
 
 Files:
-- index.html = main portfolio
-- style.css = design
-- professors/template.html = duplicate/customize for each professor
-- assets/Shanawar_Abbas_CV.pdf = CV
-- assets/Shanawar_Abbas_Transcript.pdf = transcript
+- index.html — main portfolio
+- style.css — design
+- assets/Shanawar_Abbas_Transcript.pdf — official transcript
+- professors/template.html — reusable professor-specific alignment page
 
-HOSTING WITH VERCEL:
-1. Create a GitHub account and a new repository named shanawar-research-portfolio.
-2. Upload all files/folders exactly as they appear here.
-3. Create a free account at vercel.com.
-4. Add New Project -> import the GitHub repository -> Deploy.
-5. Vercel will give you a .vercel.app address.
-
-PROFESSOR PAGES:
-Copy professors/template.html and rename it, e.g. geng-niu-swufe.html.
-Replace [NAME], [University], [School / Department], and the alignment text with facts from that professor's official university profile and recent publications.
+Deployment:
+Upload the contents of this folder to the existing GitHub repository:
+Shanawarlashari/shanawar-research-portfolio
+Vercel should automatically redeploy after the GitHub update.
